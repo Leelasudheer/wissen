@@ -1,8 +1,8 @@
 <html>
 <body>
-<h1>Welcome To Suryam Devops</h1>
+<h1>Welcome To Wissen infotech by Balaji Eka</h1>
 </body>
-<body style="color:red;">
+<body style="color:green;">
  <div class="container">
     <label for="uname"><b>Username:    </b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
@@ -14,7 +14,7 @@
 <style>
 h1
 {
-  color:blue;
+  color:magenta;
   text-align:center;
 }
 h5
