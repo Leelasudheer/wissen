@@ -1,7 +1,7 @@
 <html>
 <body>
-<h1>Welcome To Wissen infotech by Balaji Eka</h1>
-<h2>This is the sample Web Application created by Batch 06 </h2> 
+<h1>This is our own website</h1>
+<h2>LEELASUDHEER </h2> 
 </body>
 <body style="color:green;">
  <div class="container">
@@ -18,7 +18,7 @@ body {background-color: Gold;}
 
 h1
 {
-  color:magenta;
+  color:Purple;
   text-align:center;
 }
 h2
